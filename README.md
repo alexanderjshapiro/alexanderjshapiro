@@ -2,6 +2,7 @@
 
 ## 🔭 What I'm working on:
 - Wolfram Research's [Wolfram Cloud](https://www.wolframcloud.com) product as a Cloud Development Engineering Intern
+- An iOS app for "mountain" climbing in [`climb`](https://github.com/alexanderjshapiro/climb)
 - My personal website in [`ajs`](https://github.com/alexanderjshapiro/ajs)
 - A portfolio website for an independent actress and filmmaker
 
