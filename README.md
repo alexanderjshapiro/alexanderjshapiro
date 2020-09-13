@@ -7,8 +7,9 @@
 - A portfolio website for an independent actress and filmmaker
 
 ## 🌱 What I'm learning:
-- Cybersecurity and ethical hacking with Kali Linux on Udemy
-- C++ in [`cmpe-50-lab`](https://github.com/alexanderjshapiro/cmpe-50-lab)
+- Cybersecurity and ethical hacking with Kali Linux from Udemy
+- C++ from San José State University in [`cmpe-50-lab`](https://github.com/alexanderjshapiro/cmpe-50-lab)
+- SwiftUI from Stanford University in [`memorize`](https://github.com/alexanderjshapiro/memorize)
 
 ## 🚀 What I've completed:
 - An ASCII game of street craps in [`street-craps`](https://github.com/alexanderjshapiro/street-craps)
