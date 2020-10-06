@@ -12,7 +12,7 @@
 
 ## 🚀 What I've done:
 - Worked on Wolfram Research's [Wolfram Cloud](https://www.wolframcloud.com) product as a Cloud Development Engineering Intern
-- Recreated a simple flashcard study app for iOS during CodePath's Mobile App Design Workshop Series in [codepath-mad-flashcards](https://github.com/alexanderjshapiro/codepath-mad-flashcards)
+- Recreated a simple flashcard study app for iOS during CodePath's Mobile App Design Workshop Series in [`codepath-mad-flashcards`](https://github.com/alexanderjshapiro/codepath-mad-flashcards)
 - Made a rapid prototype of a grocery store point of sale for a final project in [`cis-43-pos`](https://github.com/alexanderjshapiro/cis-43-pos)
 - Made an ASCII game of street craps in [`street-craps`](https://github.com/alexanderjshapiro/street-craps)
 - Made a spin-off of Space Invaders for a final project in [`space-invaders`](https://github.com/alexanderjshapiro/space-invaders)
