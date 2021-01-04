@@ -30,4 +30,4 @@
 - Leave a note and connect with me on [LinkedIn](https://www.linkedin.com/in/alexanderjshapiro) (alexanderjshapiro)
 - Reach out to me using the email on my profile or at [alexanderjshapiro.com](https://alexanderjshapiro.com)
 
-###### Copyright © 2020 · All Rights Reserved
+###### Copyright © 2021 · All Rights Reserved
