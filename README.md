@@ -10,7 +10,7 @@
 - SwiftUI from Stanford University in [`memorize`](https://github.com/alexanderjshapiro/memorize)
 
 ## 📆 What's coming next:
-- An iOS app for "mountain" climbing in [`climb`](https://github.com/alexanderjshapiro/climb)
+- An iOS app for "mountain" climbing in [`climber`](https://github.com/alexanderjshapiro/climber)
 - A silly dancing robot to figure out Arduino
 
 ## 🚀 What I've done:
