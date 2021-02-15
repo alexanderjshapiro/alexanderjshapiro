@@ -5,7 +5,8 @@
 - Attacking my home network with Kali Linux and Routersploit
 
 ## 🌱 What I'm learning:
-- Assembly, Data Structures, and Circuit Analysis at San José State University
+- AAlgorithms and Data Structure Design at San José State University in [`cmpe-126`](https://github.com/alexanderjshapiro/cmpe-126)
+- Assembly and Circuit Analysis at San José State University
 - Cybersecurity and ethical hacking with Kali Linux from the SANS Institute and Udemy
 - SwiftUI from Stanford University in [`memorize`](https://github.com/alexanderjshapiro/memorize)
 
@@ -23,7 +24,7 @@
 - Spun-off Space Invaders for a final project in [`space-invaders`](https://github.com/alexanderjshapiro/space-invaders)
 
 ## 📚 Finished coursework:
-- C++ at San José State University in [`cmpe-50-lab`](https://github.com/alexanderjshapiro/cmpe-50-lab)
+- C++ at San José State University in [`cmpe-50`](https://github.com/alexanderjshapiro/cmpe-50)
 - AP Computer Science A at high school in [`ap-cs-a`](https://github.com/alexanderjshapiro/ap-cs-a)
 
 ## 📫 Connect with me:
