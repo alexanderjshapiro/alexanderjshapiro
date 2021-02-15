@@ -1,17 +1,20 @@
 # Hi, I'm Alex. 👋
 
 ## 🔭 What I'm working on:
+- An iOS app for "mountain" climbing in [`climber`](https://github.com/alexanderjshapiro/climber)
+- A React web app that quantitatively describes you music taste
+- A fresh website for a local film festival
 - A portfolio website for an independent actress and filmmaker
 - Attacking my home network with Kali Linux and Routersploit
 
 ## 🌱 What I'm learning:
-- AAlgorithms and Data Structure Design at San José State University in [`cmpe-126`](https://github.com/alexanderjshapiro/cmpe-126)
+- Algorithms and Data Structure Design at San José State University in [`cmpe-126`](https://github.com/alexanderjshapiro/cmpe-126)
 - Assembly and Circuit Analysis at San José State University
 - Cybersecurity and ethical hacking with Kali Linux from the SANS Institute and Udemy
 - SwiftUI from Stanford University in [`memorize`](https://github.com/alexanderjshapiro/memorize)
 
 ## 📆 What's coming next:
-- An iOS app for "mountain" climbing in [`climber`](https://github.com/alexanderjshapiro/climber)
+- Getting my radio license
 - A silly dancing robot to figure out Arduino
 
 ## 🚀 What I've done:
