@@ -2,10 +2,9 @@
 
 ## 🔭 What I'm working on:
 - An iOS app for "mountain" climbing in [`climber`](https://github.com/alexanderjshapiro/climber)
+- A fresh website for a local film festival in [`sunscreen-film-festival-west`](https://github.com/alexanderjshapiro/sunscreen-film-festival-west)
 - A React web app that quantitatively describes you music taste
-- A fresh website for a local film festival
 - A portfolio website for an independent actress and filmmaker
-- Attacking my home network with Kali Linux and Routersploit
 
 ## 🌱 What I'm learning:
 - Algorithms and Data Structure Design at San José State University in [`cmpe-126`](https://github.com/alexanderjshapiro/cmpe-126)
